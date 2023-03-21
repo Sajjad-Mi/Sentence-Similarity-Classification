@@ -1,0 +1,2 @@
+# Sentence-Similarity-Classification
+This is my fourth project for deep learning course a project for predicting the similarity between two sentences and their subjects using Keras and [sentence dataset](https://github.com/Ledengary/COPER/blob/main/Datasets/PerSICK.csv)
